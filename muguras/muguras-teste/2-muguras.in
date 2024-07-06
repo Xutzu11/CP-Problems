@@ -1,0 +1,7 @@
+5
+haha v
+a := haha
+b := haha
+c := ha
+v = a + b
+v = v + c

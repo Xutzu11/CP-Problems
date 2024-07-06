@@ -1,0 +1,11 @@
+9
+aab hehehe
+hehehe := aab
+hehehe = hehehe + hehehe
+hehehe = hehehe + hehehe
+hehehe = hehehe + hehehe
+hihi := aa
+hoho := b
+hehehe = hehehe + hihi
+hehehe = hehehe + hoho
+hehehe = hehehe + hehehe

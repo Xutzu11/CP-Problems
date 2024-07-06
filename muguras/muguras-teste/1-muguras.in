@@ -1,0 +1,7 @@
+5
+abc x
+p := ab
+q := cdef
+x = p + q
+q := tabc
+x = x + q

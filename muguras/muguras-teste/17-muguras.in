@@ -1,0 +1,15 @@
+13
+ala bala
+portocala := ala
+bala := alabala
+bala = bala + bala
+ala := alaalaala
+lala := lalalalala
+bala = bala + lala
+bala = lala + bala
+bala = bala + bala
+portocala = portocala + portocala
+bala = portocala + bala
+bala = bala + portocala
+bala = bala + bala
+hehehe := alaalaala
